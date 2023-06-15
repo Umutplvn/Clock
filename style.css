@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+
+
+.text{
+    text-align: center;
+    font-family: 'Bodoni Moda', serif;
+    font-size: 15rem;
+    font-weight: 500;
+    opacity: 0.8;
+    text-decoration: line-through 5px black;
+    color: #B1B1B1;
+    margin-top: 10rem;
+    
+}
