@@ -1,6 +1,6 @@
 # Clock 
 
-#Live at: https://umutplvn.github.io/Clock/
+
 
 The purpose of this coding challenge is to get the current time and write it on the screen.
 
